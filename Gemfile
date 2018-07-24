@@ -68,3 +68,8 @@ gem 'devise-bootstrap-views'
 gem 'font-awesome-rails'
 gem 'stripe'
 gem 'dotenv-rails'
+
+# for image uploading
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
